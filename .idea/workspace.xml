@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1903d623-1ef3-4aa8-81b8-08fec90df706" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Tests/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -61,9 +63,17 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="22" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1588770632875" />
-    <state x="349" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588770601778">
+    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog" timestamp="1588772401536">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="349" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1588770601778" />
+    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1588772401536" />
+    <state x="482" y="268" key="GitRewordDialog" timestamp="1588777227301">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="482" y="268" key="GitRewordDialog/0.0.1280.720@0.0.1280.720" timestamp="1588777227301" />
+    <state x="349" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588895482402">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="349" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1588895482402" />
   </component>
 </project>
