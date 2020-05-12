@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1903d623-1ef3-4aa8-81b8-08fec90df706" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tests/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/LogCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/LogCall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +73,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="482" y="268" key="GitRewordDialog/0.0.1280.720@0.0.1280.720" timestamp="1588777227301" />
-    <state x="349" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588895482402">
+    <state x="349" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588933282945">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="349" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1588895482402" />
+    <state x="349" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1588933282945" />
   </component>
 </project>
